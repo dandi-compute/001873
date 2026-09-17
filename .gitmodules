@@ -38,3 +38,67 @@
 	path = 001697/derivatives/dandisets-000/dandiset-000397/sub-Pt03/sub-Pt03_ecephys/pipeline-aind+ephys/version-v1.2.2_codebase-v0.3.34_params-1cbdbee_config-7940dfd_attempt-4/derivatives/postprocessed/block0_acquisition-ElectricalSeriesRaw_recording1.zarr
 	url = https://github.com/dandizarrs/079c7edd-471b-4103-a14d-c1d5bc57c24f
 	datalad-id = 1bcb844b-23b1-4700-83a9-173392842cba
+[submodule "001697/derivatives/dandisets-000/dandiset-000397/sub-Pt03/sub-Pt03_ecephys/pipeline-aind+ephys/version-v1.2.4_codebase-v0.3.49_params-1cbdbee_config-7940dfd_attempt-1/derivatives/postprocessed/block0_acquisition-ElectricalSeriesRaw_recording1.zarr"]
+	path = 001697/derivatives/dandisets-000/dandiset-000397/sub-Pt03/sub-Pt03_ecephys/pipeline-aind+ephys/version-v1.2.4_codebase-v0.3.49_params-1cbdbee_config-7940dfd_attempt-1/derivatives/postprocessed/block0_acquisition-ElectricalSeriesRaw_recording1.zarr
+	url = https://github.com/dandizarrs/9c1c2af9-34f3-454e-bd09-05d4dd49c0ad
+	datalad-id = 6f51de65-30c8-4b7f-b0b7-037d69e5fc7e
+[submodule "001697/derivatives/dandisets-000/dandiset-000397/sub-Pt03/sub-Pt03_ecephys/pipeline-aind+ephys/version-v1.2.4_codebase-v0.3.49_params-1cbdbee_config-7940dfd_attempt-2/derivatives/postprocessed/block0_acquisition-ElectricalSeriesRaw_recording1.zarr"]
+	path = 001697/derivatives/dandisets-000/dandiset-000397/sub-Pt03/sub-Pt03_ecephys/pipeline-aind+ephys/version-v1.2.4_codebase-v0.3.49_params-1cbdbee_config-7940dfd_attempt-2/derivatives/postprocessed/block0_acquisition-ElectricalSeriesRaw_recording1.zarr
+	url = https://github.com/dandizarrs/831373df-981a-4250-a824-2b34a6448345
+	datalad-id = 1f5396bd-363b-4ded-909b-bd5f0fb86bb0
+[submodule "001697/derivatives/dandisets-000/dandiset-000409/sub-KS051/sub-KS051_ses-7082d8ff-255a-47d7-a839-bf093483ec30_desc-raw_ecephys/pipeline-aind+ephys/version-v1.2.4_codebase-v0.3.43_params-1cbdbee_config-7940dfd_attempt-1/derivatives/postprocessed/block0_acquisition-ElectricalSeriesProbe00AP_recording1.zarr"]
+	path = 001697/derivatives/dandisets-000/dandiset-000409/sub-KS051/sub-KS051_ses-7082d8ff-255a-47d7-a839-bf093483ec30_desc-raw_ecephys/pipeline-aind+ephys/version-v1.2.4_codebase-v0.3.43_params-1cbdbee_config-7940dfd_attempt-1/derivatives/postprocessed/block0_acquisition-ElectricalSeriesProbe00AP_recording1.zarr
+	url = https://github.com/dandizarrs/9e9360d3-03ff-4060-8bf6-2bbea1f5bfef
+	datalad-id = 766624cc-5fc7-4914-a1e3-b83ee889dd17
+[submodule "001697/derivatives/dandisets-000/dandiset-000409/sub-KS051/sub-KS051_ses-7082d8ff-255a-47d7-a839-bf093483ec30_desc-raw_ecephys/pipeline-aind+ephys/version-v1.2.4_codebase-v0.3.43_params-1cbdbee_config-7940dfd_attempt-1/derivatives/postprocessed/block0_acquisition-ElectricalSeriesProbe01AP_recording1.zarr"]
+	path = 001697/derivatives/dandisets-000/dandiset-000409/sub-KS051/sub-KS051_ses-7082d8ff-255a-47d7-a839-bf093483ec30_desc-raw_ecephys/pipeline-aind+ephys/version-v1.2.4_codebase-v0.3.43_params-1cbdbee_config-7940dfd_attempt-1/derivatives/postprocessed/block0_acquisition-ElectricalSeriesProbe01AP_recording1.zarr
+	url = https://github.com/dandizarrs/f7123f75-9b43-4a58-864f-0b4d1960ad8a
+	datalad-id = c2635832-4079-4028-b0f6-7e97caabafb3
+[submodule "001697/derivatives/dandisets-000/dandiset-000409/sub-KS051/sub-KS051_ses-7082d8ff-255a-47d7-a839-bf093483ec30_desc-raw_ecephys/pipeline-aind+ephys/version-v1.2.4_codebase-v0.3.46_params-1cbdbee_config-7940dfd_attempt-1/derivatives/postprocessed/block0_acquisition-ElectricalSeriesProbe00AP_recording1.zarr"]
+	path = 001697/derivatives/dandisets-000/dandiset-000409/sub-KS051/sub-KS051_ses-7082d8ff-255a-47d7-a839-bf093483ec30_desc-raw_ecephys/pipeline-aind+ephys/version-v1.2.4_codebase-v0.3.46_params-1cbdbee_config-7940dfd_attempt-1/derivatives/postprocessed/block0_acquisition-ElectricalSeriesProbe00AP_recording1.zarr
+	url = https://github.com/dandizarrs/d70864dd-be02-4e01-ad47-56fa082dc6cc
+	datalad-id = 51edeada-9446-411d-b4f0-608995d563e4
+[submodule "001697/derivatives/dandisets-000/dandiset-000409/sub-KS051/sub-KS051_ses-7082d8ff-255a-47d7-a839-bf093483ec30_desc-raw_ecephys/pipeline-aind+ephys/version-v1.2.4_codebase-v0.3.46_params-1cbdbee_config-7940dfd_attempt-1/derivatives/postprocessed/block0_acquisition-ElectricalSeriesProbe01AP_recording1.zarr"]
+	path = 001697/derivatives/dandisets-000/dandiset-000409/sub-KS051/sub-KS051_ses-7082d8ff-255a-47d7-a839-bf093483ec30_desc-raw_ecephys/pipeline-aind+ephys/version-v1.2.4_codebase-v0.3.46_params-1cbdbee_config-7940dfd_attempt-1/derivatives/postprocessed/block0_acquisition-ElectricalSeriesProbe01AP_recording1.zarr
+	url = https://github.com/dandizarrs/e9ac964b-4d58-49a0-afc3-8fa5028ea43f
+	datalad-id = 5b9f9554-939f-419e-8aab-299ffa851c61
+[submodule "001697/derivatives/dandisets-000/dandiset-000409/sub-SWC-038/sub-SWC-038_ses-4d8c7767-981c-4347-8e5e-5d5fffe38534_desc-raw_ecephys/pipeline-aind+ephys/version-v1.2.4_codebase-v0.3.43_params-1cbdbee_config-7940dfd_attempt-1/derivatives/postprocessed/block0_acquisition-ElectricalSeriesProbe00AP_recording1.zarr"]
+	path = 001697/derivatives/dandisets-000/dandiset-000409/sub-SWC-038/sub-SWC-038_ses-4d8c7767-981c-4347-8e5e-5d5fffe38534_desc-raw_ecephys/pipeline-aind+ephys/version-v1.2.4_codebase-v0.3.43_params-1cbdbee_config-7940dfd_attempt-1/derivatives/postprocessed/block0_acquisition-ElectricalSeriesProbe00AP_recording1.zarr
+	url = https://github.com/dandizarrs/5c3deee9-9e65-4bcd-8b00-ae7841c945fa
+	datalad-id = 26e43af7-c4c8-4a8f-9d03-b671caeb54f7
+[submodule "001697/derivatives/dandisets-000/dandiset-000409/sub-SWC-038/sub-SWC-038_ses-4d8c7767-981c-4347-8e5e-5d5fffe38534_desc-raw_ecephys/pipeline-aind+ephys/version-v1.2.4_codebase-v0.3.43_params-1cbdbee_config-7940dfd_attempt-1/derivatives/postprocessed/block0_acquisition-ElectricalSeriesProbe01AP_recording1.zarr"]
+	path = 001697/derivatives/dandisets-000/dandiset-000409/sub-SWC-038/sub-SWC-038_ses-4d8c7767-981c-4347-8e5e-5d5fffe38534_desc-raw_ecephys/pipeline-aind+ephys/version-v1.2.4_codebase-v0.3.43_params-1cbdbee_config-7940dfd_attempt-1/derivatives/postprocessed/block0_acquisition-ElectricalSeriesProbe01AP_recording1.zarr
+	url = https://github.com/dandizarrs/483e0ce4-219e-42ef-ab5c-1a304ec2fb08
+	datalad-id = e569243a-4f5b-44f6-9992-e7d174e6b367
+[submodule "001697/derivatives/dandisets-000/dandiset-000409/sub-SWC-038/sub-SWC-038_ses-4d8c7767-981c-4347-8e5e-5d5fffe38534_desc-raw_ecephys/pipeline-aind+ephys/version-v1.2.4_codebase-v0.3.43_params-1cbdbee_config-7940dfd_attempt-3/derivatives/postprocessed/block0_acquisition-ElectricalSeriesProbe00AP_recording1.zarr"]
+	path = 001697/derivatives/dandisets-000/dandiset-000409/sub-SWC-038/sub-SWC-038_ses-4d8c7767-981c-4347-8e5e-5d5fffe38534_desc-raw_ecephys/pipeline-aind+ephys/version-v1.2.4_codebase-v0.3.43_params-1cbdbee_config-7940dfd_attempt-3/derivatives/postprocessed/block0_acquisition-ElectricalSeriesProbe00AP_recording1.zarr
+	url = https://github.com/dandizarrs/133fc75c-4097-4d21-8882-36919a5118e8
+	datalad-id = 64018026-7eed-4cf8-9197-2447252bab74
+[submodule "001697/derivatives/dandisets-000/dandiset-000409/sub-SWC-038/sub-SWC-038_ses-4d8c7767-981c-4347-8e5e-5d5fffe38534_desc-raw_ecephys/pipeline-aind+ephys/version-v1.2.4_codebase-v0.3.43_params-1cbdbee_config-7940dfd_attempt-3/derivatives/postprocessed/block0_acquisition-ElectricalSeriesProbe01AP_recording1.zarr"]
+	path = 001697/derivatives/dandisets-000/dandiset-000409/sub-SWC-038/sub-SWC-038_ses-4d8c7767-981c-4347-8e5e-5d5fffe38534_desc-raw_ecephys/pipeline-aind+ephys/version-v1.2.4_codebase-v0.3.43_params-1cbdbee_config-7940dfd_attempt-3/derivatives/postprocessed/block0_acquisition-ElectricalSeriesProbe01AP_recording1.zarr
+	url = https://github.com/dandizarrs/fd1b76c1-94f0-45a9-bb72-a72888736664
+	datalad-id = 1aa2870e-882a-4b85-be88-ead89270b79a
+[submodule "001697/derivatives/dandisets-000/dandiset-000409/sub-ZM-1897/sub-ZM-1897_ses-dd4da095-4a99-4bf3-9727-f735077dba66_desc-raw_ecephys/pipeline-aind+ephys/job-26091041a834/derivatives/postprocessed/block0_acquisition-ElectricalSeriesProbe00AP_recording1.zarr"]
+	path = 001697/derivatives/dandisets-000/dandiset-000409/sub-ZM-1897/sub-ZM-1897_ses-dd4da095-4a99-4bf3-9727-f735077dba66_desc-raw_ecephys/pipeline-aind+ephys/job-26091041a834/derivatives/postprocessed/block0_acquisition-ElectricalSeriesProbe00AP_recording1.zarr
+	url = https://github.com/dandizarrs/06891bea-8c5f-49ca-8a18-432e561e95dd
+	datalad-id = 655a37be-8170-4a53-a091-363a710d1e48
+[submodule "001697/derivatives/dandisets-000/dandiset-000409/sub-ZM-1897/sub-ZM-1897_ses-dd4da095-4a99-4bf3-9727-f735077dba66_desc-raw_ecephys/pipeline-aind+ephys/job-26091041a834/derivatives/postprocessed/block0_acquisition-ElectricalSeriesProbe01AP_recording1.zarr"]
+	path = 001697/derivatives/dandisets-000/dandiset-000409/sub-ZM-1897/sub-ZM-1897_ses-dd4da095-4a99-4bf3-9727-f735077dba66_desc-raw_ecephys/pipeline-aind+ephys/job-26091041a834/derivatives/postprocessed/block0_acquisition-ElectricalSeriesProbe01AP_recording1.zarr
+	url = https://github.com/dandizarrs/fd1df27c-6ba3-434f-a115-b177c3266a1e
+	datalad-id = 75060063-86af-4a9e-880e-06924188e179
+[submodule "001697/derivatives/dandisets-000/dandiset-000409/sub-ZM-1897/sub-ZM-1897_ses-dd4da095-4a99-4bf3-9727-f735077dba66_desc-raw_ecephys/pipeline-aind+ephys/version-v1.2.4_codebase-v0.3.49_params-1cbdbee_config-7940dfd_attempt-1/derivatives/postprocessed/block0_acquisition-ElectricalSeriesProbe00AP_recording1.zarr"]
+	path = 001697/derivatives/dandisets-000/dandiset-000409/sub-ZM-1897/sub-ZM-1897_ses-dd4da095-4a99-4bf3-9727-f735077dba66_desc-raw_ecephys/pipeline-aind+ephys/version-v1.2.4_codebase-v0.3.49_params-1cbdbee_config-7940dfd_attempt-1/derivatives/postprocessed/block0_acquisition-ElectricalSeriesProbe00AP_recording1.zarr
+	url = https://github.com/dandizarrs/abd80b4e-26c3-47bc-bab1-c0cd75f477b0
+	datalad-id = 82f8d12d-6151-4cb4-9b95-a0e86bf48acc
+[submodule "001697/derivatives/dandisets-000/dandiset-000409/sub-ZM-1897/sub-ZM-1897_ses-dd4da095-4a99-4bf3-9727-f735077dba66_desc-raw_ecephys/pipeline-aind+ephys/version-v1.2.4_codebase-v0.3.49_params-1cbdbee_config-7940dfd_attempt-1/derivatives/postprocessed/block0_acquisition-ElectricalSeriesProbe01AP_recording1.zarr"]
+	path = 001697/derivatives/dandisets-000/dandiset-000409/sub-ZM-1897/sub-ZM-1897_ses-dd4da095-4a99-4bf3-9727-f735077dba66_desc-raw_ecephys/pipeline-aind+ephys/version-v1.2.4_codebase-v0.3.49_params-1cbdbee_config-7940dfd_attempt-1/derivatives/postprocessed/block0_acquisition-ElectricalSeriesProbe01AP_recording1.zarr
+	url = https://github.com/dandizarrs/ef9dad40-c907-4abb-8f37-aaca6391d77c
+	datalad-id = 74021d15-a799-442c-a349-3e31533b9374
+[submodule "001697/derivatives/dandisets-000/dandiset-000620/sub-Elgar/sub-Elgar_ses-2022-09-02_ecephys/pipeline-aind+ephys/job-2609107a557c/derivatives/postprocessed/block0_acquisition-ElectricalSeriesAP_recording1.zarr"]
+	path = 001697/derivatives/dandisets-000/dandiset-000620/sub-Elgar/sub-Elgar_ses-2022-09-02_ecephys/pipeline-aind+ephys/job-2609107a557c/derivatives/postprocessed/block0_acquisition-ElectricalSeriesAP_recording1.zarr
+	url = https://github.com/dandizarrs/9aec51b3-65f3-40b4-b503-eb23562b9ea8
+	datalad-id = 6b6079db-e67c-4901-832c-fa84f85e9f1d
+[submodule "001697/derivatives/dandisets-000/dandiset-000620/sub-Elgar/sub-Elgar_ses-2022-09-02_ecephys/pipeline-aind+ephys/version-v1.2.2_codebase-v0.3.34_params-1cbdbee_config-7940dfd_attempt-1/derivatives/postprocessed/block0_acquisition-ElectricalSeriesAP_recording1.zarr"]
+	path = 001697/derivatives/dandisets-000/dandiset-000620/sub-Elgar/sub-Elgar_ses-2022-09-02_ecephys/pipeline-aind+ephys/version-v1.2.2_codebase-v0.3.34_params-1cbdbee_config-7940dfd_attempt-1/derivatives/postprocessed/block0_acquisition-ElectricalSeriesAP_recording1.zarr
+	url = https://github.com/dandizarrs/9e951c31-76e0-42b5-a0b9-c14d480cf71f
+	datalad-id = 5ffe21c8-f843-4393-817f-3b996a7c41f9
