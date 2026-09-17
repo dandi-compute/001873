@@ -1,0 +1,26 @@
+{
+  "Name": "DANDI Compute",
+  "Description": "Automated job runs spanning the archive, such as spike-sorting with AIND..",
+  "BIDSVersion": "1.10.1",
+  "DatasetType": "study",
+  "Authors": [
+      "Baker, Cody",
+      "Halchenko, Yaroslav"
+  ],
+  "Funding": [
+      "NIH 5R24MH117295-07"
+  ],
+  "License": "CC-BY-4.0",
+  "GeneratedBy": [
+    {
+      "Name": "DANDI Compute: Core",
+      "Description": "The primary source code for orchestration of DANDI Compute.",
+      "CodeURL": "https://github.com/dandi-compute/dandi-compute-core"
+    }
+  ],
+  "SourceDatasets": [
+    {
+      "URL": "https://dandiarchive.org/dandiset"
+    }
+  ]
+}

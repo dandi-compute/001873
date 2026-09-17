@@ -11,17 +11,38 @@ access:
 - schemaKey: AccessRequirements
   status: dandi:OpenAccess
 assetsSummary:
-  approach: []
+  approach:
+  - name: electrophysiological approach
+    schemaKey: ApproachType
   dataStandard:
   - identifier: RRID:SCR_016124
     name: Brain Imaging Data Structure (BIDS)
     schemaKey: StandardsType
-  measurementTechnique: []
-  numberOfBytes: 2390998220
-  numberOfFiles: 10157
+  - identifier: RRID:SCR_015242
+    name: Neurodata Without Borders (NWB)
+    schemaKey: StandardsType
+  measurementTechnique:
+  - name: spike sorting technique
+    schemaKey: MeasurementTechniqueType
+  - name: surgical technique
+    schemaKey: MeasurementTechniqueType
+  - name: signal filtering technique
+    schemaKey: MeasurementTechniqueType
+  - name: analytical technique
+    schemaKey: MeasurementTechniqueType
+  - name: multi electrode extracellular electrophysiology recording technique
+    schemaKey: MeasurementTechniqueType
+  numberOfBytes: 37400713092
+  numberOfFiles: 10926
+  numberOfSubjects: 1
   schemaKey: AssetsSummary
   species: []
-  variableMeasured: []
+  variableMeasured:
+  - ProcessingModule
+  - LFP
+  - ElectricalSeries
+  - ElectrodeGroup
+  - Units
 citation: Baker, Cody (2026) DANDI Compute (Archive) (Version draft) [Data set]. DANDI
   Archive. https://dandiarchive.org/dandiset/001873/draft
 contributor:
