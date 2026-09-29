@@ -1,0 +1,15 @@
+task_id	hash	native_id	name	status	exit	submit	duration	realtime	%cpu	peak_rss	peak_vmem	rchar	wchar
+1	56/b39d82	23806530	job_dispatch (job-dispatch)	COMPLETED	0	2026-09-25 05:28:52.177	2m 4s	6.1s	41.2%	187.4 MB	634 MB	37.1 MB	2.5 MB
+3	22/c32936	23807012	preprocessing (preprocessing)	COMPLETED	0	2026-09-25 05:30:56.585	2m 9s	1m 36s	289.3%	10.4 GB	60.3 GB	11.2 GB	1.8 GB
+2	d0/d4b537	23807011	nwb_ecephys (nwb-ecephys)	COMPLETED	0	2026-09-25 05:30:56.383	3m 4s	2m	355.1%	57.3 GB	71.6 GB	21.2 GB	129.7 MB
+4	39/2b63c1	23807013	preprocessing (preprocessing)	COMPLETED	0	2026-09-25 05:30:56.779	4m 9s	1m 10s	452.6%	8.7 GB	55.6 GB	11.2 GB	1.8 GB
+7	e3/bac850	23807832	spikesort_kilosort4 (spikesort-kilosort4)	COMPLETED	0	2026-09-25 05:33:06.107	2m 10s	52.4s	177.7%	1.9 GB	32 GB	1 GB	28.9 MB
+5	a2/8136ff	23807014	preprocessing (preprocessing)	COMPLETED	0	2026-09-25 05:30:56.934	6m 9s	1m 22s	363.1%	9.9 GB	60.2 GB	11.4 GB	1.8 GB
+8	2e/45e16a	23808489	spikesort_kilosort4 (spikesort-kilosort4)	COMPLETED	0	2026-09-25 05:35:06.142	2m 5s	58.2s	220.9%	1.9 GB	30.3 GB	1 GB	45.4 MB
+6	8a/fe7254	23807015	preprocessing (preprocessing)	COMPLETED	0	2026-09-25 05:30:57.129	7m 14s	1m 10s	401.3%	10.1 GB	60.2 GB	11.4 GB	1.8 GB
+9	c8/69a168	23809109	spikesort_kilosort4 (spikesort-kilosort4)	COMPLETED	0	2026-09-25 05:37:06.401	1m 39s	42.7s	366.6%	2 GB	30.9 GB	1.1 GB	52.2 MB
+10	b9/07afd0	23809397	spikesort_kilosort4 (spikesort-kilosort4)	COMPLETED	0	2026-09-25 05:38:10.981	2m 10s	47.4s	403.9%	2.1 GB	28.7 GB	1 GB	71.6 MB
+11	1d/b866bd	23810035	postprocessing (postprocessing)	FAILED	1	2026-09-25 05:40:21.222	1m 35s	29.9s	-	-	-	-	-
+12	4c/462263	23810036	postprocessing (postprocessing)	ABORTED	-	2026-09-25 05:40:21.811	-	-	-	-	-	-	-
+14	50/d0caf6	23810037	postprocessing (postprocessing)	ABORTED	-	2026-09-25 05:40:21.972	-	-	-	-	-	-	-
+13	01/0d253b	23810038	postprocessing (postprocessing)	ABORTED	-	2026-09-25 05:40:22.181	-	-	-	-	-	-	-
